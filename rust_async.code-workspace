@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "getting_started/hello_world"
+		},
+		{
+			"path": "getting_started/learn_and_sing"
+		},
+		{
+			"path": "getting_started/async-await-echo"
+		}
+	],
+	"settings": {}
+}
