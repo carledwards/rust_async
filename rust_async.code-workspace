@@ -8,6 +8,9 @@
 		},
 		{
 			"path": "getting_started/async-await-echo"
+		},
+		{
+			"path": "executing_futures_and_tasks/executor_and_spawner"
 		}
 	],
 	"settings": {}
